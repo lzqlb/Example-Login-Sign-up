@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <h1>Exampgle page login and signn up in html and css</h1><BR>
+  <h1>Example page login and signn up in html and css</h1><BR>
     <img src="https://cdn.discordapp.com/avatars/985652327409147944/c46468dda110399f7d03fa5b02436f4a.webp?size=1024" alt="Logo" width="80" height="80">
   <h3>Template Site Web</h3>
   <p>
